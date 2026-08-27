@@ -1,0 +1,25 @@
+text,sentiment,category
+I really enjoyed using this application.,positive,technology
+The interface is simple and easy to understand.,positive,technology
+The results were accurate and useful.,positive,technology
+This service made my work much easier.,positive,service
+I am very happy with the overall experience.,positive,experience
+The application is fast and reliable.,positive,technology
+The instructions were clear and helpful.,positive,education
+I would definitely recommend this tool.,positive,technology
+The application is confusing and difficult to use.,negative,technology
+The results were inaccurate and disappointing.,negative,technology
+The service was slow and frustrating.,negative,service
+I am unhappy with the overall experience.,negative,experience
+The instructions were unclear.,negative,education
+The application stopped working several times.,negative,technology
+The tool did not solve my problem.,negative,service
+I would not recommend this application.,negative,technology
+The lecture was informative and engaging.,positive,education
+The course helped me understand the topic.,positive,education
+The customer support team was helpful.,positive,service
+The product quality was excellent.,positive,product
+The product arrived damaged.,negative,product
+Customer support did not respond to my request.,negative,service
+The course content was outdated.,negative,education
+The tool provides useful insights from text.,positive,technology
