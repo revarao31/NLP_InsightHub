@@ -11,7 +11,7 @@ Transform raw text into meaningful insights using modern NLP & Transformer-based
   <img src="https://img.shields.io/badge/spaCy-NER-orange">
 </p>
 
-🌐 **Live Demo:** [Open the Application](YOUR_STREAMLIT_APP_LINK)
+> 🌐 **Try NLP InsightHub live:** [Open the Application](https://nlp-insight.streamlit.app)
 
 ---
 
